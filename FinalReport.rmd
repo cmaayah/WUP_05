@@ -10,6 +10,7 @@ require(tidyverse)
 require(tigerstats)
 triUmp <-read.csv(file="triUmpsal.csv",header=TRUE)
 triUmpF=filter(triUmp,gender=="F")
+
 ```
 
 # Introduction
